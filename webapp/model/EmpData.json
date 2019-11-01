@@ -1,0 +1,50 @@
+{
+	"details": [{
+			"empid": 22,
+			"name": "Manika"
+
+		}, {
+
+			"empid": 23,
+			"name": "Lakshay"
+
+		}, {
+
+			"empid": 24,
+			"name": "Umesh"
+
+		}, {
+
+			"empid": 25,
+			"name": "Shubhangi"
+
+		}
+
+	],
+	"details2":[
+		{
+			"empid": 22,
+			"name": "Manika"
+
+		}, {
+
+			"empid": 23,
+			"name": "Lakshay"
+
+		}, {
+
+			"empid": 24,
+			"name": "Umesh"
+
+		}, {
+
+			"empid": 25,
+			"name": "Shubhangi"
+
+		}
+		
+		
+		
+		]
+
+}
