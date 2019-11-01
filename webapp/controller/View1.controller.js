@@ -12,7 +12,7 @@ sap.ui.define([
 			oField.setValue("id");*/
 			var oDialog = new sap.ui.xmlfragment("Fragment.Fragment.Fragment.Fragment", this);
 			this.getView().addDependent(oDialog);
-			if (id == "input1") {
+			/*if (id == "input1") {*/
 				oDialog.bindAggregation("items", {
 					path: "Emp>/details",
 					template: new sap.m.StandardListItem({
@@ -20,7 +20,7 @@ sap.ui.define([
 					})
 
 				});
-			} else {
+		/*	} else {
 				oDialog.bindAggregation("items", {
 					path: "Emp>/details",
 					template: new sap.m.StandardListItem({
@@ -28,7 +28,7 @@ sap.ui.define([
 					})
 
 				});
-			}
+			}*/
 
 			oDialog.open();
 			

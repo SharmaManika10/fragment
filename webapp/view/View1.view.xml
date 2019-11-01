@@ -9,9 +9,9 @@
 				<VBox>
 						<Text id="text1" text="Employee ID"></Text>
 						<Input id="input1" placeholder="Enter Employee Id"  width="50%" showValueHelp="true" valueHelpRequest="onValueHelpRequested" selectedItem="enabled"></Input>
-						<Text id="text2" text="Employee Name"></Text>
+						<!--<Text id="text2" text="Employee Name"></Text>
 						<Input id="input2" placeholder="Enter Name" width="50%" showValueHelp="true" valueHelpRequest="onValueHelpRequested"></Input>
-						</VBox>
+						--></VBox>
 		   </f:SimpleForm>
 					</content>
 				</Page>
